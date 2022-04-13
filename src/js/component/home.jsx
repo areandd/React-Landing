@@ -11,7 +11,6 @@ const Home = () => {
 			<Navbar />
 			<Jumbotron />
 			<Card />
-			<Credit />
 		</div>
 	);
 };
